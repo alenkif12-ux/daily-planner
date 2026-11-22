@@ -1,0 +1,1 @@
+.header{flex-direction:row;justify-content:space-around;align-items:center;display:flex}@media (width<=767px){.header{flex-direction:column;justify-content:center;gap:12px;padding:16px}}.completed{opacity:.6;text-decoration:line-through}body{color:#f4f4f5;background-color:#101114;font-family:Arial,sans-serif}
