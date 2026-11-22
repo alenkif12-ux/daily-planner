@@ -1,0 +1,20 @@
+@use 'variables';
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    @media (max-width: variables.$mobile) {
+        flex-direction: column;
+        justify-content: center;
+        gap: 12px;
+        padding: 16px;
+    }
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
