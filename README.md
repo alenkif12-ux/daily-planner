@@ -108,12 +108,5 @@ Tasks are currently stored in a JavaScript array during the application session.
 
 ---
 
-## 👩‍💻 Author
-
-**Alёна**
-
 GitHub: [@alenkif12-ux](https://github.com/alenkif12-ux)
 
----
-
-*Built with ❤️ as part of my journey into Front-End Development.*
